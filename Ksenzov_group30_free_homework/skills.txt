@@ -1,0 +1,14 @@
+1: Base Theory
+2: Client Server Architecture"
+3: HTTP
+4: JSON, XML
+5: API, Postman
+6: Charles, Fidler[D[D[Ddler
+7: Dev Tools
+8: VPN
+9: Mobile Testing
+10: bash, terminal
+11: SQL
+12: Redis
+13: JMeter
+14: Scrum
